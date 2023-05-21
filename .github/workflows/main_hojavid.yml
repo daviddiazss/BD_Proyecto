@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'HojaVid'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8662134457924CFF97974CE76385203F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8DDB2BEC2ECB467593C7692FE51167FE }}
           package: .
